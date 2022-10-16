@@ -7,4 +7,4 @@ Here lives the HTML CSS and JS for front end interaction and will eventually use
 Checkout the wiki of both this repo and the backend repo for my ideas that went into the project.
 
 
-Font used: [Credit to Frederick Brennan](https://github.com/ctrlcctrlv/some-time-later) via dafont.com
+Font used: [Credit to Frederick Brennan (ctrlcctrlv)](https://github.com/ctrlcctrlv/some-time-later)
